@@ -1,10 +1,12 @@
 # UX-Design
 
 ### Competitor analysis
+https://docs.google.com/document/d/1-nGD1tLQqf1c83XmtbEnMXVExeOmHK9q7iVMxDpotX8/edit?usp=sharing
 ### Elevator pitch
 ### Concept one-pager
 ### Experience map
 ### Formative presentation
+https://docs.google.com/presentation/d/1eee1pINGiu_BwskXE37CIGJL5urodCC3WfA_Of-f0xc/edit?usp=sharing
 ### User personas
 ### Wireframes
 ### Prototype(s)
