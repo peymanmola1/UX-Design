@@ -19,17 +19,17 @@ Week 2 -
 https://medium.com/@peymanmola/learning-to-wireframe-b8a1926725d
 
 
-Week 3
+Week 3 - 
 https://medium.com/@peymanmola/favourite-digital-museum-experience-9a714d86892a
 
 
-Week 4
+Week 4 - 
 https://medium.com/@peymanmola/write-your-observations-about-user-testing-at-nmm-e3d75dafa984
 
 
-Week 5
+Week 5 - 
 https://medium.com/@peymanmola/formative-review-7960b2bb7074
 
-Week 6
+Week 6 - 
 https://medium.com/@peymanmola/how-to-use-storytelling-to-effectively-communicate-your-research-83a699d56f2d
 
