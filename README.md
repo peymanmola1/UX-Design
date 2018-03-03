@@ -35,3 +35,5 @@ https://medium.com/@peymanmola/formative-review-7960b2bb7074
 Week 6 - 
 https://medium.com/@peymanmola/how-to-use-storytelling-to-effectively-communicate-your-research-83a699d56f2d
 
+Week 7 - 
+https://medium.com/@peymanmola/read-ux-choreography-and-then-blog-about-your-3-main-take-aways-from-this-article-4215057c9e85
